@@ -31,10 +31,12 @@ This is the number layer, arranged as a numpad for convenience as opposed to the
 ---
 ![image](https://user-images.githubusercontent.com/83165406/178301186-69c8161a-2027-44c2-8830-a2d1f1ee9994.png)
 This is the symbols layer, some symbols are repeated but will be fixed soon...hopefully.
+
 **NAVIGATION**
 ---
 ![image](https://user-images.githubusercontent.com/83165406/178301387-2f0ce9ca-6976-4273-84dc-df01e35ade6f.png)
 This is the navigation layer, as self explanatory as it gets. Arrow keys are located here.
+
 **FUNCTION**
 ---
 ![image](https://user-images.githubusercontent.com/83165406/178301471-315a5e79-4ff3-4db1-8d6e-0416a41efb1e.png)
