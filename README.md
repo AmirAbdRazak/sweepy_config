@@ -17,29 +17,29 @@ The meat of the keyboard, the keymap. There are 5 Layers used in this configurat
 
 **APT**
 ---
-![image](https://user-images.githubusercontent.com/83165406/178300973-b16fef5f-5829-46bb-9c6c-da11c6994113.png)
+![image](https://user-images.githubusercontent.com/83165406/178300973-b16fef5f-5829-46bb-9c6c-da11c6994113.png) </br>
 This is the main layer that features the homerow mods. Acts as an intermediate between all the other layers and can be considered the hub of the layouts. Layout is made by Apsu. 
 
 APT Repository: https://github.com/apsu/apt
 
 **NUMBER**
 ---
-![image](https://user-images.githubusercontent.com/83165406/178301096-db472e74-b0fb-45e5-aed4-7b66848ba542.png)
+![image](https://user-images.githubusercontent.com/83165406/178301096-db472e74-b0fb-45e5-aed4-7b66848ba542.png) </br>
 This is the number layer, arranged as a numpad for convenience as opposed to the traditional horizontal alignment.
 
 **SYMBOL**
 ---
-![image](https://user-images.githubusercontent.com/83165406/178301186-69c8161a-2027-44c2-8830-a2d1f1ee9994.png)
+![image](https://user-images.githubusercontent.com/83165406/178301186-69c8161a-2027-44c2-8830-a2d1f1ee9994.png) </br>
 This is the symbols layer, some symbols are repeated but will be fixed soon...hopefully.
 
 **NAVIGATION**
 ---
-![image](https://user-images.githubusercontent.com/83165406/178301387-2f0ce9ca-6976-4273-84dc-df01e35ade6f.png)
+![image](https://user-images.githubusercontent.com/83165406/178301387-2f0ce9ca-6976-4273-84dc-df01e35ade6f.png) </br>
 This is the navigation layer, as self explanatory as it gets. Arrow keys are located here.
 
 **FUNCTION**
 ---
-![image](https://user-images.githubusercontent.com/83165406/178301471-315a5e79-4ff3-4db1-8d6e-0416a41efb1e.png)
+![image](https://user-images.githubusercontent.com/83165406/178301471-315a5e79-4ff3-4db1-8d6e-0416a41efb1e.png) </br>
 This is the function layer, it has modifiers, function keys and also mouse movements.
 
 
